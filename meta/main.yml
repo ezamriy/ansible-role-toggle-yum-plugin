@@ -1,0 +1,16 @@
+galaxy_info:
+  author: Eugene Zamriy
+  description: Enables or disables specified yum plugins
+  company: CloudLinux
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+    - name: EL
+      versions:
+        - 5
+        - 6
+        - 7
+  galaxy_tags:
+    - plugin
+    - yum
+dependencies: []
